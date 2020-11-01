@@ -9,4 +9,7 @@ debugging feature with a trace table so students can find errors in their code
 easier.
 
 ## Running:
-  Please run the Interpreter.java class.  
+  Run the (Interpreter.java)[./interpreter/Interpreter.java] class.  
+## Todo:
+- Refactor
+- Implement array operations
